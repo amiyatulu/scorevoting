@@ -43,6 +43,6 @@ scores = [1.5, 1.25, 1, 0]
 scores = [3, 2, 1, 0]   
 {'A': 157565, 'B': 157484, 'C': 157365, 'D': 135391, 'E': 136498, 'F': 135946, 'G': 114150, 'H': 114377, 'I': 114183, 'J': 92161, 'K': 92520, 'L': 141965}
 
-Difference of votes: A - L (A won by more votes)  
-15600 
+Difference of votes: A - L (A won by more votes)     
+15600    
 But Difference of votes between I - L is −27782, So I will loose even if it has greater utility

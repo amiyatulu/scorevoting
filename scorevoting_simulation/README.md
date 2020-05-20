@@ -33,7 +33,7 @@ corrupt voter count = 25000
 scores = [1.25, 1.125, 1, 0]      
 {'A': 79173.125, 'B': 78908.75, 'C': 79223.875, 'D': 76436.125, 'E': 76351.25, 'F': 76503.0, 'G': 73651.5, 'H': 73614.375, 'I': 73637.0, 'J': 51970.375, 'K': 52218.875, 'L': 72718.25}
 
-Difference of votes: A - L: 6454.875 
+Difference of votes: A - L: 6454.875    
 But Difference of votes between I - L is  + 919, I will win, and utility of I is also greater, I, F,all with greater utility will win. 
 
 scores = [1.5, 1.25, 1, 0]     

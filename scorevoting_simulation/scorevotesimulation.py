@@ -126,29 +126,29 @@ if __name__ == "__main__" :
     scores = [1.25, 1.125, 1, 0]  
     score1 = withscore(scores, vk, ck)
     print(score1)
-    print(score1["D"] - score1["L"])
+    print(score1["A"] - score1["L"])
     scores = [1.5, 1.25, 1, 0]
     score1 = withscore(scores, vk, ck)
     print(score1)
-    print(score1["D"] - score1["L"])
+    print(score1["A"] - score1["L"])
     scores = [3, 2, 1, 0]
     score1 = withscore(scores, vk, ck)
     print(score1)
-    print(score1["D"] - score1["L"])
-    vk = 10000
-    ck = 5000
+    print(score1["A"] - score1["L"])
+    vk = 37500
+    ck = 25000
     scores = [1.25, 1.125, 1, 0]  
     score1 = withscore(scores, vk, ck)
     print(score1)
-    print(score1["D"] - score1["L"])
+    print(score1["A"] - score1["L"])
     scores = [1.5, 1.25, 1, 0]
     score1 = withscore(scores, vk, ck)
     print(score1)
-    print(score1["D"] - score1["L"])
+    print(score1["A"] - score1["L"])
     scores = [3, 2, 1, 0]
     score1 = withscore(scores, vk, ck)
     print(score1)
-    print(score1["D"] - score1["L"])
+    print(score1["A"] - score1["L"])
 
 
 

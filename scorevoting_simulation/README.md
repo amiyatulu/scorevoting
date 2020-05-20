@@ -33,7 +33,8 @@ corrupt voter count = 25000
 scores = [1.25, 1.125, 1, 0]      
 {'A': 79173.125, 'B': 78908.75, 'C': 79223.875, 'D': 76436.125, 'E': 76351.25, 'F': 76503.0, 'G': 73651.5, 'H': 73614.375, 'I': 73637.0, 'J': 51970.375, 'K': 52218.875, 'L': 72718.25}
 
-Difference of votes: A - L: 6454.875   
+Difference of votes: A - L: 6454.875 
+But Difference of votes between I - L is  + 919, I will win, and utility of I is also greater, I, F,all with greater utility will win. 
 
 scores = [1.5, 1.25, 1, 0]     
 {'A': 90465.25, 'B': 90319.75, 'C': 90438.5, 'D': 84837.0, 'E': 84770.5, 'F': 84998.5, 'G': 79785.5, 'H': 79606.25, 'I': 79478.25, 'J': 57574.5, 'K': 57272.0, 'L': 82617.0}   
@@ -43,4 +44,5 @@ scores = [3, 2, 1, 0]
 {'A': 157565, 'B': 157484, 'C': 157365, 'D': 135391, 'E': 136498, 'F': 135946, 'G': 114150, 'H': 114377, 'I': 114183, 'J': 92161, 'K': 92520, 'L': 141965}
 
 Difference of votes: A - L (A won by more votes)  
-15600  
+15600 
+But Difference of votes between I - L is −27782, So I will loose even if it has greater utility

@@ -1,6 +1,10 @@
 
 ## An output  
-A, B, C, D etc are in increasing utility, but corrupt voters are bribed for L  
+A, B, C has highest utility,     
+D, E, F has good utility,   
+G, H, I has average utility,   
+J, K, L has lowest utility,   
+but corrupt voters are bribed for L     
 
 rational voters count = 1000   
 idiot voters count = 1000  

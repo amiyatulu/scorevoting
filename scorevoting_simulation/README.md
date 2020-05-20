@@ -27,7 +27,7 @@ scores = [3, 2, 1, 0]
 
 rational voters count = 37500   
 idiot voters count = 37500  
-corrupt voter count = 25000 
+corrupt voter count = 25000   
 25% of votes are corrupt
 
 scores = [1.25, 1.125, 1, 0]      

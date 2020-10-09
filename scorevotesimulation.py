@@ -150,13 +150,3 @@ if __name__ == "__main__" :
     print(score1)
     print(score1["A"] - score1["L"])
 
-
-
-
-
-
-# data = random.choices(
-#     population=[["A", 1.5], ["A",1.25]]
-#     population=["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]
-#     weights=[0.]
-# )
